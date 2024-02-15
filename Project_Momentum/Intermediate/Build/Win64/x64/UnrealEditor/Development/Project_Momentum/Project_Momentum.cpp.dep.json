@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\github\\project_momentum\\project_momentum\\source\\project_momentum\\project_momentum.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\github\\project_momentum\\project_momentum\\intermediate\\build\\win64\\x64\\project_momentumeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\github\\project_momentum\\project_momentum\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_momentum\\definitions.project_momentum.h",
+            "d:\\unreal projects\\github\\project_momentum\\project_momentum\\source\\project_momentum\\project_momentum.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

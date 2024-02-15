@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Github\\Project_Momentum\\Project_Momentum\\Source\\Project_Momentum\\Project_Momentum.Build.cs",
+		"D:\\Unreal Projects\\Github\\Project_Momentum\\Project_Momentum\\Source\\Project_Momentum.Target.cs",
+		"D:\\Unreal Projects\\Github\\Project_Momentum\\Project_Momentum\\Source\\Project_MomentumEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Project_Momentum",
+			"Path": "..\\Source\\Project_Momentum.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Project_MomentumEditor",
+			"Path": "..\\Source\\Project_MomentumEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
